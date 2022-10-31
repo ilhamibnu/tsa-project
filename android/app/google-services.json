@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "584564538499",
+    "project_id": "fidinsayang",
+    "storage_bucket": "fidinsayang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584564538499:android:17ef76f568897ada816fb6",
+        "android_client_info": {
+          "package_name": "com.example.fidinsayang23"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584564538499-nbgira49ok24cs7v4gvsdf1mc11sbc5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtShJH_BwWyz9qleI_n8azBjSfb02PJYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584564538499-nbgira49ok24cs7v4gvsdf1mc11sbc5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
